@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/bg-changer-react/static/css/main.b2c6afc3.css",
+    "main.js": "/github.io/bg-changer-react/static/js/main.6e36cb59.js",
+    "static/js/787.ac87b573.chunk.js": "/github.io/bg-changer-react/static/js/787.ac87b573.chunk.js",
+    "index.html": "/github.io/bg-changer-react/index.html",
+    "main.b2c6afc3.css.map": "/github.io/bg-changer-react/static/css/main.b2c6afc3.css.map",
+    "main.6e36cb59.js.map": "/github.io/bg-changer-react/static/js/main.6e36cb59.js.map",
+    "787.ac87b573.chunk.js.map": "/github.io/bg-changer-react/static/js/787.ac87b573.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2c6afc3.css",
+    "static/js/main.6e36cb59.js"
+  ]
+}
